@@ -48,9 +48,54 @@ This class will be contain several in-water project assignments using small unma
 Grading
 -------
 
-| ACTIVITIES | % FINAL GRADE |
-| --- | --- |
-| Labs/Assignments | 40 |
-| Field Projects/Competitions | 40 |
-| Quiz | 10 |
-| Class Participation | 10
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+% FINAL GRADE
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Labs/Assignments
+{{< tdclose >}}
+{{< tdopen >}}
+40
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Field Projects/Competitions
+{{< tdclose >}}
+{{< tdopen >}}
+40
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Quiz
+{{< tdclose >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Class Participation
+{{< tdclose >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
